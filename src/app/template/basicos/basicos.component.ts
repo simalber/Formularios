@@ -10,8 +10,8 @@ export class BasicosComponent implements OnInit {
   @ViewChild ('miFormulario') miFormulario!: NgForm;
 
   initForm = {
-    Producto: 'Libro',
-    Precio: 10,
+    Producto   : 'Libro',
+    Precio     : 10,
     Existencias: 20
   }
 

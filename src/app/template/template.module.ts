@@ -14,7 +14,6 @@ import { customMinDirective } from './directivas/custom-min.directive';
     BasicosComponent,
     DinamicosComponent,
     SwitchesComponent,
-
     customMinDirective
   ],
   imports: [
